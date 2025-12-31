@@ -11,9 +11,11 @@
 - 📬 **Telegram 通知** - 实时推送登录状态和验证请求
 - 🛡️ **设备验证处理** - 自动等待并处理设备验证
 - ♻️ **保活访问** - 登录后自动访问控制台保持活跃
-
+### Mobile登录
 ![Mobile登录](./img/Mobile登录.png)
+### 2FA登录
 ![2FA登录](./img/2FA登录.png)
+### Cookie自动登录
 ![Cookie自动登录](./img/Cookie自动登录.png)
 
 
@@ -293,6 +295,7 @@ chromedriver --version
 **如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！**
 
 ---
+
 
 
 
