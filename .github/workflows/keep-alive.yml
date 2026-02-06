@@ -1,6 +1,6 @@
 name: ClawCloud 自动登录保活
 
-于:
+on:
   schedule:
     - cron: '0 1 * * *'
   workflow_dispatch:
